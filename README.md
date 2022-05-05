@@ -2,8 +2,7 @@
 4 Accounts Set with this app
 1. user: js , pin: 1111
 2. user: jd , pin: 2222
-3. user: stw , pin: 3333
-4. user: ss , pin: 4444
+
 
 After logging in you are able to view the entire account
 It shows the current balance, the current date and time, a list of deposits and withdrawals
